@@ -23,7 +23,10 @@ Ensure you have a C++17 compliant compiler and CMake installed.
 
 ```bash
 mkdir build && cd build
+```
+```
 cmake .. -DCMAKE_BUILD_TYPE=Release
+```bash
 cmake --build .
 ./netcode_core
 ```
