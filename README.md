@@ -28,6 +28,8 @@ mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 ```bash
 cmake --build .
+```
+```bash
 ./netcode_core
 ```
 ## 📊 Sample Execution Log
